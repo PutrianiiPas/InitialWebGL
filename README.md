@@ -1,7 +1,7 @@
 # Initial WebGL
-*** Tugas Personalized Glyph Rendering pada WebGL, yaitu `PT-5` ***
+Tugas Personalized Glyph Rendering pada WebGL, yaitu `PT-5`
 
-## Nama: Putriani Pirma A. Sagala
-## NRP: 5025231045
-## Mata Kuliah: Grafika Komputer
-## Kelas: C
+<summary><strong>Nama:</strong> Putriani Pirma A. Sagala</summary>
+<summary><strong>NRP:</strong> 5025231045</summary>
+<summary><strong>Mata Kuliah:</strong> Grafika Komputer</summary>
+<summary><strong>Kelas:</strong> C</summary>
